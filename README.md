@@ -6,8 +6,11 @@ This is a simple HTML project for a cafe menu. It displays the name of the cafe,
 
 ![Cafe Menu Preview](cafeMenuImage.png)
 
-## How to Run
+## Project Structure
+* index.html: The main HTML file.
+* styles.css: The CSS file for styling the HTML.
 
-1. Clone the repository:
+## Clone the repository:
+
    ```sh
    git clone [<repository-url>](https://github.com/Chol369/cafeMenu.git)
